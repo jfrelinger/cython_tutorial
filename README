@@ -1,0 +1,3 @@
+to run to tutorial code in the src directory simply run
+'python setup.py build_ext -i'
+in the src directory and then run test_primes.py
